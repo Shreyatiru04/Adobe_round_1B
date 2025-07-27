@@ -1,0 +1,5 @@
+app/input/
+app/output/
+__pycache__/
+*.pyc
+
